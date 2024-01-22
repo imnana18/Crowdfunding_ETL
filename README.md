@@ -2,7 +2,7 @@
 
 ## Overview
 
-This ETL mini project involved building an `ETL pipeline` using `Python`, `Pandas`, `Python list comprehension`, and `regex` to extract and transform data from `crowdfunding.xlsx` and `contacts.xlsx` files. The project required extracting data from `.xlsx` files, transforming & importing data to CSV files, generating an ERD, designing table schemas, and then uploading the data into a Postgres database.
+This ETL mini project involved building an `ETL pipeline` using `Python`, `Pandas`, `Python list comprehension`, and `regex` to extract and transform data from `crowdfunding.xlsx` and `contacts.xlsx` files. The project required extracting data from .xlsx files, transforming & importing data to CSV files, generating an ERD, designing table schemas, and then uploading the data into a Postgres database.
 
 Starter code and resource files were downloaded from [Project 2 ETL files](#) for this project.
 
@@ -41,7 +41,7 @@ Same 'contacts' Dataframe was created demonstrating methods for both `Pandas` (O
 ### 4. Created the Crowdfunding Database
 
 - Inspected CSV files and sketched an ERD using QuickDBD:
-![ERD](/Users/annachen/Documents/github/Crowdfunding_ETL/Starter_Files/Resources/Crowdfunding_Database/crowdfunding_erd.png)
+![crowdfunding_erd](https://github.com/imnana18/Crowdfunding_ETL/assets/147445115/38f8e9df-da82-4020-addd-50ab89faa59c)
 
 - Created a table schema for each CSV file in a "crowdfunding_db_schema.sql" file.
 - Created a Postgres database named "crowdfunding_db."
