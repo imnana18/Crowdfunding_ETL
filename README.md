@@ -16,6 +16,7 @@ Starter code and resource files were downloaded from [Project 2 ETL files](#) fo
 ### 2. Created the Campaign DataFrame
 
 - Extracted and transformed `crowdfunding.xlsx` data to create a 'campaign' DataFrame.
+- Columns specified as per instructions.
 - Imported as CSV file `campaign.csv`.
 
 ### 3. Created the Contacts DataFrame
@@ -28,6 +29,7 @@ Same 'contacts' Dataframe was created demonstrating methods for both `Pandas` (O
 - Converted each row to a dictionary.
 - Extracted values from keys using `Python list comprehension`.
 - Created a new DataFrame with extracted data.
+- Columns specified as per instructions.
 - Cleaned and exported as `contacts.csv`.
 
 #### Option 2 (Regular Expressions):
@@ -35,53 +37,27 @@ Same 'contacts' Dataframe was created demonstrating methods for both `Pandas` (O
   - Imported `contacts.xlsx` into a DataFrame.
   - Extracted "contact_id," "name," and "email" columns using 'regex'.
   - Created a new DataFrame with the extracted data.
-  - Converted column types.
+  - Columns specified as per instructions.
   - Cleaned and exported as `contacts_2.csv`.
 
 ### 4. Created the Crowdfunding Database
 
 - Inspected CSV files and sketched an ERD using QuickDBD:
+  
 ![crowdfunding_erd](https://github.com/imnana18/Crowdfunding_ETL/assets/147445115/38f8e9df-da82-4020-addd-50ab89faa59c)
 
-- Created a table schema for each CSV file in a "crowdfunding_db_schema.sql" file.
-- Created a Postgres database named "crowdfunding_db."
-- Used the schema to create tables in the correct order.
-- Verified table creation with SELECT statements.
+- Created a table schema for each CSV file in a `crowdfunding_db_schema.sql` file.
+- Created a Postgres database named `crowdfunding_db`.
+- Used the schema to create tables in the correct order and appropriate primary/foreign keys and relationships established.
 - Imported each CSV file into its corresponding SQL table.
-- Verified data correctness with SELECT statements.
+  
+![csv_imports_successful](https://github.com/imnana18/Crowdfunding_ETL/assets/147445115/5e82ac5b-8dee-4d8b-9d78-ae1ae7a0a64e)
 
-## Hints
+- Verified data correctness with `SELECT *` statements. Also downloaded output data as CSV files in '{table_name}_table.png' format. (Please refer to `final_tables` folder.)
 
-- Utilized Pandas methods for data manipulation.
-- Referred to provided hints for specific tasks.
+![subcategory_table](https://github.com/imnana18/Crowdfunding_ETL/assets/147445115/c4b9553b-739d-4c56-9602-90981a6c09d4)
+![contacts_table](https://github.com/imnana18/Crowdfunding_ETL/assets/147445115/6c328262-a6fc-49d2-a1f2-cd3d3730fda3)
+![category_table](https://github.com/imnana18/Crowdfunding_ETL/assets/147445115/2bf28f6f-80a9-4c0f-8d80-653bcdd2ff89)
+![campaign_table](https://github.com/imnana18/Crowdfunding_ETL/assets/147445115/f1d6e06d-a391-4500-840c-a18ba262e16c)
 
-## Support and Resources
 
-- Sought assistance from the instructional team, learning assistants, and tutors as needed during classes and office hours.
-
-## Requirements
-
-**Category DataFrame (15 points):**
-- "category_id" column sequential from "cat1" to "catn."
-- "category" column with only category titles.
-- Exported as "category.csv."
-
-**Subcategory DataFrame (15 points):**
-- "subcategory_id" column sequential from "subcat1" to "subcatn."
-- "subcategory" column with only subcategory titles.
-- Exported as "subcategory.csv."
-
-**Campaign DataFrame (30 points):**
-- Columns specified as per instructions.
-- "campaign.csv" file exported.
-
-**Contacts DataFrame (15 points):**
-- Columns specified as per instructions.
-- "contacts.csv" file exported.
-
-**Crowdfunding Database (25 points):**
-- "crowdfunding_db_schema.sql" was created.
-- "crowdfunding_db" was created using the schema.
-- Appropriate primary and foreign keys and relationships were established in the database.
-- Each CSV file was imported without errors.
-- Data was displayed correctly using SELECT * statements.
