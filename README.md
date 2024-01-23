@@ -1,7 +1,6 @@
 # Project 2: ETL Mini Project
 
 &nbsp;
-&nbsp;
 
 ## Overview
 
