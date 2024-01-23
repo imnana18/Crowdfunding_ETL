@@ -10,7 +10,6 @@ Starter code and resource files were downloaded from [Project 2 ETL files](#) fo
 Please see the `Project File Guide` section at the bottom of README for a detailed map of this repository.
 
 &nbsp;
-&nbsp;
 
 ## Process
 
