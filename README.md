@@ -10,9 +10,9 @@ Please see the `Project File Guide` section at the bottom of README for a detail
 
 ## Process
 
-Refer to `ETL_Mini_Project.ipynb` for detailed code with notes for process parts 1-3.
+- Refer to `ETL_Mini_Project.ipynb` for detailed code with notes for process parts 1-3.
 
-Refer to `Crowdfunding_Database` folder for creating the process part 4.
+- Refer to `Crowdfunding_Database` folder for creating the process part 4.
 
 ### 1. Created the Category and Subcategory DataFrames
 
