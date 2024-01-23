@@ -23,7 +23,8 @@ Please reference the `Project File Guide` at the bottom of this README for help 
 
 ### 3. Created the Contacts DataFrame
 
-Same 'contacts' Dataframe was created demonstrating methods for both `Pandas` (Option 1) and `regex` (Option 2).
+Two 'contacts' Dataframe was created demonstrating methods for both `Pandas` (Option 1) and `regex` (Option 2).
+(`Pandas` method is saved as `contacts.csv` and `regex` method is saved as `contacts_2.csv`.)
 
 #### Option 1 (Python dictionary methods):
 
