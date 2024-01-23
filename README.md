@@ -79,6 +79,10 @@ Two 'contacts' Dataframe was created demonstrating methods for both `Pandas` (Op
         - :open_file_folder:`final_tables`: all loaded tables .png and .csv versions.
         - :open_file_folder:`sql_data`: copies of generated CSV files from `ETL_Mini_Project.ipynb` with header removed for import into Database tables.
 
+&nbsp;
+&nbsp;
+&nbsp;
+
 
 ## References
 
