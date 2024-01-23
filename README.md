@@ -49,11 +49,11 @@ Same 'contacts' Dataframe was created demonstrating methods for both `Pandas` (O
 - Created a table schema for each CSV file in a `crowdfunding_db_schema.sql` file.
 - Created a Postgres database named `crowdfunding_db`.
 - Used the schema to create tables in the correct order and appropriate primary/foreign keys and relationships established.
-- Imported each CSV file into its corresponding SQL table.
+- Imported each CSV file into its corresponding SQL table:
   
 ![csv_imports_successful](https://github.com/imnana18/Crowdfunding_ETL/assets/147445115/5e82ac5b-8dee-4d8b-9d78-ae1ae7a0a64e)
 
-- Verified data correctness with `SELECT *` statements. Also downloaded output data as CSV files in '{table_name}_table.png' format. (Please refer to `final_tables` folder.)
+- Verified data correctness with `SELECT *` statements. Also downloaded output data as CSV files in '{table_name}_table.png' format. (Please refer to `final_tables` folder.):
 
 <p align="center">
   <img src="https://github.com/imnana18/Crowdfunding_ETL/assets/147445115/c4b9553b-739d-4c56-9602-90981a6c09d4" alt="Subcategory Table" width="200">
