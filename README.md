@@ -6,16 +6,7 @@ This ETL mini project involved building an ETL pipeline using `Python`, `Pandas`
 
 Starter code and resource files were downloaded from [Project 2 ETL files](#) for this project.
 
-## Project File Guide
-
-`Starter_Files` :open_file_folder: contains all documents for this project.
-- 📄`ETL_Mini_Project.ipynb`: all code for extract and transfrom processes.
-- :open_file_folder:`Resources`: all generated CSV files from code (.csv) and original excel files (.xlsx).
-    - :open_file_folder:`Crowdfunding_Database`: all files for the loading the DataFrame using `Postgres` and `pgAdmin4`.
-        - 📄`crowdfunding_db_schema.sql`: all schemas for the tables and steps to created the `Crowdfunding Database`.
-        - 📊`crowdfunding_erd.png`: ERD generated using `QuickDBD` website.
-        - :open_file_folder:`final_tables`: all loaded tables .png and .csv versions.
-        - :open_file_folder:`sql_data`: copies of generated CSV files from `ETL_Mini_Project.ipynb` with header removed for import into Database tables.
+Please see `Project File Guide` at the bottom of README for help navigating this repository.
 
 ## Process
 
@@ -77,6 +68,18 @@ Two 'contacts' Dataframe was created demonstrating methods for both `Pandas` (Op
   <img src="https://github.com/imnana18/Crowdfunding_ETL/assets/147445115/2bf28f6f-80a9-4c0f-8d80-653bcdd2ff89" alt="Category Table" width="200">
   <img src="https://github.com/imnana18/Crowdfunding_ETL/assets/147445115/f1d6e06d-a391-4500-840c-a18ba262e16c" alt="Campaign Table" width="200">
 </p>
+
+
+## Project File Guide
+
+`Starter_Files` :open_file_folder: contains all documents for this project.
+- 📄`ETL_Mini_Project.ipynb`: all code for extract and transfrom processes.
+- :open_file_folder:`Resources`: all generated CSV files from code (.csv) and original excel files (.xlsx).
+    - :open_file_folder:`Crowdfunding_Database`: all files for the loading the DataFrame using `Postgres` and `pgAdmin4`.
+        - 📄`crowdfunding_db_schema.sql`: all schemas for the tables and steps to created the `Crowdfunding Database`.
+        - 📊`crowdfunding_erd.png`: ERD generated using `QuickDBD` website.
+        - :open_file_folder:`final_tables`: all loaded tables .png and .csv versions.
+        - :open_file_folder:`sql_data`: copies of generated CSV files from `ETL_Mini_Project.ipynb` with header removed for import into Database tables.
 
 
 ## References
