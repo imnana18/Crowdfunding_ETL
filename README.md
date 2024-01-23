@@ -66,13 +66,13 @@ Same 'contacts' Dataframe was created demonstrating methods for both `Pandas` (O
 
 ## Project File Guide
 
-`Starter_Files` folder contains all documents for this project.
+`Starter_Files` :open_file_folder: contains all documents for this project.
 - `ETL_Mini_Project.ipynb`: all code for extract and transfrom processes.
-- `Resources` folder: all generated CSV files from code (.csv) and original excel files (.xlsx).
-    - `Crowdfunding_Database` folder: all files for the loading the DataFrame using `Postgres` and `pgAdmin4`.
+- :open_file_folder:`Resources`: all generated CSV files from code (.csv) and original excel files (.xlsx).
+    - :open_file_folder:`Crowdfunding_Database`: all files for the loading the DataFrame using `Postgres` and `pgAdmin4`.
         - `crowdfunding_db_schema.sql`: all schemas for the tables and steps to created the `Crowdfunding Database`.
         - `crowdfunding_erd.png`: ERD generated using `QuickDBD` website.
-        - `final_tables` folder: all loaded tables .png and .csv versions.
-        - `sql_data` folder: copies of generated CSV files from `ETL_Mini_Project.ipynb` with header removed for import into Database tables.
+        - :open_file_folder:`final_tables`: all loaded tables .png and .csv versions.
+        - :open_file_folder:`sql_data`: copies of generated CSV files from `ETL_Mini_Project.ipynb` with header removed for import into Database tables.
   
 
