@@ -10,6 +10,8 @@ Please reference the `Project File Guide` at the bottom of this README for help 
 
 ## Process
 
+See `ETL_Mini_Project.ipynb` for complete code with notes. 
+
 ### 1. Created the Category and Subcategory DataFrames
 
 - Extracted and transformed `crowdfunding.xlsx` data to create 'category' and 'subcategory' DataFrames.
