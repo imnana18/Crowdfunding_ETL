@@ -9,7 +9,6 @@ Starter code and resource files were downloaded from [Project 2 ETL files](#) fo
 
 Please see the `Project File Guide` section at the bottom of README for a detailed map of this repository.
 
-&nbsp;
 
 ## Process
 
@@ -70,8 +69,6 @@ Two 'contacts' Dataframe was created demonstrating methods for both `Pandas` (Op
   <img src="https://github.com/imnana18/Crowdfunding_ETL/assets/147445115/f1d6e06d-a391-4500-840c-a18ba262e16c" alt="Campaign Table" width="200">
 </p>
 
-&nbsp;
-&nbsp;
 
 ## Project File Guide
 
@@ -84,8 +81,6 @@ Two 'contacts' Dataframe was created demonstrating methods for both `Pandas` (Op
         - :open_file_folder:`final_tables`: all loaded tables .png and .csv versions.
         - :open_file_folder:`sql_data`: copies of generated CSV files from `ETL_Mini_Project.ipynb` with header removed for import into Database tables.
 
-&nbsp;
-&nbsp;
 
 ## References
 
