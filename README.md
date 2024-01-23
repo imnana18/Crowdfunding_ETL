@@ -56,21 +56,11 @@ Same 'contacts' Dataframe was created demonstrating methods for both `Pandas` (O
 - Verified data correctness with `SELECT *` statements. Also downloaded output data as CSV files in '{table_name}_table.png' format. (Please refer to `final_tables` folder.)
 
 <p align="center">
-  <img src="https://github.com/imnana18/Crowdfunding_ETL/assets/147445115/c4b9553b-739d-4c56-9602-90981a6c09d4" alt="Subcategory Table" width="400">
-  <img src="https://github.com/imnana18/Crowdfunding_ETL/assets/147445115/6c328262-a6fc-49d2-a1f2-cd3d3730fda3" alt="Contacts Table" width="400">
+  <img src="https://github.com/imnana18/Crowdfunding_ETL/assets/147445115/c4b9553b-739d-4c56-9602-90981a6c09d4" alt="Subcategory Table" width="200">
+  <img src="https://github.com/imnana18/Crowdfunding_ETL/assets/147445115/6c328262-a6fc-49d2-a1f2-cd3d3730fda3" alt="Contacts Table" width="200">
+  <img src="https://github.com/imnana18/Crowdfunding_ETL/assets/147445115/2bf28f6f-80a9-4c0f-8d80-653bcdd2ff89" alt="Category Table" width="200">
+  <img src="https://github.com/imnana18/Crowdfunding_ETL/assets/147445115/f1d6e06d-a391-4500-840c-a18ba262e16c" alt="Campaign Table" width="200">
 </p>
 
-<p align="center">
-  <img src="https://github.com/imnana18/Crowdfunding_ETL/assets/147445115/c4b9553b-739d-4c56-9602-90981a6c09d4" alt="Subcategory Table">
-  <img src="https://github.com/imnana18/Crowdfunding_ETL/assets/147445115/6c328262-a6fc-49d2-a1f2-cd3d3730fda3" alt="Contacts Table">
-  <img src="https://github.com/imnana18/Crowdfunding_ETL/assets/147445115/2bf28f6f-80a9-4c0f-8d80-653bcdd2ff89" alt="Category Table">
-  <img src="https://github.com/imnana18/Crowdfunding_ETL/assets/147445115/f1d6e06d-a391-4500-840c-a18ba262e16c" alt="Campaign Table">
-</p>
-
-
-![subcategory_table](https://github.com/imnana18/Crowdfunding_ETL/assets/147445115/c4b9553b-739d-4c56-9602-90981a6c09d4) 
-![contacts_table](https://github.com/imnana18/Crowdfunding_ETL/assets/147445115/6c328262-a6fc-49d2-a1f2-cd3d3730fda3)
-![category_table](https://github.com/imnana18/Crowdfunding_ETL/assets/147445115/2bf28f6f-80a9-4c0f-8d80-653bcdd2ff89) 
-![campaign_table](https://github.com/imnana18/Crowdfunding_ETL/assets/147445115/f1d6e06d-a391-4500-840c-a18ba262e16c)
 
 
