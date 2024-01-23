@@ -2,7 +2,7 @@
 
 ## Overview
 
-This ETL mini project involved building an `ETL pipeline` using `Python`, `Pandas`, `Python list comprehension`, and `regex` to extract and transform data from `crowdfunding.xlsx` and `contacts.xlsx` files. The project required extracting data from excel files, transforming & importing them to CSV files, generating an ERD, designing table schemas, and then uploading the data into a Postgres database.
+This ETL mini project involved building an ETL pipeline using `Python`, `Pandas`, `Python list comprehension`, and `regex` to extract and transform data from `crowdfunding.xlsx` and `contacts.xlsx` files. The project required extracting data from excel files, transforming & importing them to CSV files, generating an ERD, designing table schemas, and then uploading the data into a Postgres database.
 
 Starter code and resource files were downloaded from [Project 2 ETL files](#) for this project.
 
