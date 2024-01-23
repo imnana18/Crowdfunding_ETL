@@ -6,7 +6,7 @@ This ETL mini project involved building an ETL pipeline using `Python`, `Pandas`
 
 Starter code and resource files were downloaded from [Project 2 ETL files](#) for this project.
 
-Please reference the `Project File Guide` at the bottom of this README for help navigating this repository 😊.
+Please reference the `Project File Guide` at the bottom of this README for help navigating this repository.
 
 ## Process
 
