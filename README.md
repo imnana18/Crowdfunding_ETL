@@ -49,7 +49,7 @@ Two 'contacts' Dataframe was created demonstrating methods for both `Pandas` (Op
 
 ### 4. Created the Crowdfunding Database
 
-- Inspected CSV files and sketched an ERD using QuickDBD:
+- Inspected CSV files and sketched an `ERD` using `QuickDBD`:
   
 ![crowdfunding_erd](https://github.com/imnana18/Crowdfunding_ETL/assets/147445115/38f8e9df-da82-4020-addd-50ab89faa59c)
 
